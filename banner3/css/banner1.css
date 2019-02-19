@@ -1,0 +1,23 @@
+
+.banner1{
+    
+    height: 150px;
+    background-color: rgba(143, 188, 202);
+    clip-path: polygon(20% 0, 80% 0, 70% 100%, 30% 100%);
+
+}
+.backgroundImage{
+    height: 150px;
+    background-image: url(../img/banner2.jpg);
+    background-size: cover;
+
+}
+.heading-primary-sub{
+    display: block;
+    font-size: 150%;
+    padding-left: 39%;
+    padding-top: 1%;
+    color: white;
+}
+
+

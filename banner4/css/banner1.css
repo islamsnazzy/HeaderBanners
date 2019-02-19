@@ -1,0 +1,15 @@
+
+.banner1{
+    
+    height: 150px;
+    background-color: rgba(122, 148, 50, 1);
+    clip-path: polygon(100% 0, 40% 0, 60% 100%, 100% 100%);
+
+}
+.backgroundImage{
+    height: 150px;
+    background-image: url(../img/banner8.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
